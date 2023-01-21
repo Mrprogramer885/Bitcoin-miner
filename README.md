@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Bitcoin Clicker </h1>
-<h2 align="center"><a href="https://julianyaman.github.io/bitcoin-clicker/index.html" target="_blank">Play now!</a></h2>
+<h2 align="center"><a href="https://mrprogramer885.github.io/Bitcoin-miner/" target="_blank">Play now!</a></h2>
 
 **Currently, there is no active development on this game. If you are interested in contributing to it and give it a nice revamp, please contact me on [Discord](https://discord.com/invite/ccpgH3b) or [Twitter](https://twitter.com/julianYaman).**
 

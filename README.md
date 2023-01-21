@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Mrprogrammer885/Bitcoin-miner/blob/main/images/bitcoin-8bit.png?raw=true" width=200 />
+    <img src="https://github.com/Mrprogramer885/Bitcoin-miner/blob/main/images/bitcoin-8bit.png?raw=true" width=200 />
 </p>
 
 <h1 align="center"> Bitcoin Clicker </h1>

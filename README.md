@@ -8,6 +8,7 @@
 This repository contains the working code of the game **Bitcoin Miner**.
 
 ## Changelog - [here](https://github.com/Mrprogramer885/Bitcoin-miner/blob/main/changelog.md)
+### game wiki: [Here](https://github.com/Mrprogramer885/Bitcoin-miner/wiki)
 ## Contributions:
 #####  you want, you can contribute to this project ansd make it better
 ### how to contribute:

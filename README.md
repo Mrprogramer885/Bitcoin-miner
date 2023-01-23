@@ -13,5 +13,13 @@ This repository contains the working code of the game **Bitcoin Miner**.
 #####  you want, you can contribute to this project ansd make it better
 ### how to contribute:
 ##### you can cotribute to this project by finding bugs or upgrading working code.
+# Game versions:
+| Version | Available         |
+| ------- | ------------------ |
+| 1.3.x   | :x:                |
+| 1.2.x   | :x:                |
+| 1.1.x   | :x:                |
+| 1.0x    | ✅                 |
+#### note that the versions can be buggy if you are using beta version 
 
 

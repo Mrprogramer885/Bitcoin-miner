@@ -14,7 +14,7 @@ var items = [
   },
    {
     "name": "item_PotatoPC",
-    "price": "0.0000001"
+    "price": "0.00000200"
   },
   {
     "name": "item_oldComputerFromGrandpa",

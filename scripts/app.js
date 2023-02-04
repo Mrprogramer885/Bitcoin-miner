@@ -12,6 +12,10 @@ var items = [
     "name": "item_oldCpu",
     "price": "0.00000125"
   },
+   {
+    "name": "item_PotatoPC",
+    "price": "0.0000001"
+  },
   {
     "name": "item_oldComputerFromGrandpa",
     "price": "0.00003"
